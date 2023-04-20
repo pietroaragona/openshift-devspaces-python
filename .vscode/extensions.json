@@ -1,3 +1,3 @@
 {
-  "recommendations": ["ms-python.python", "oderwat.indent-rainbow"]
+  "recommendations": ["ms-python.python", "oderwat.indent-rainbow", "redhat.fabric8-analytics"]
 }
