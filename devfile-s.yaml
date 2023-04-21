@@ -4,7 +4,7 @@ metadata:
 components:
   - name: python
     container:
-      image: alm-repos.sogei.it/devfile/python:1_v1.1.1
+      image: alm-repos.sogei.it/devfile/python:8_v2.0.0
       volumeMounts:
         - name: venv
           path: /home/user/.venv

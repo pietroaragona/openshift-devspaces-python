@@ -1,0 +1,13 @@
+
+# moduli comuni
+pytest
+flake8
+
+# moduli richiesti da consulazioniprezziimmobiliari
+Django==4.0.4
+djangorestframework
+numpy
+pandas
+seaborn
+matplotlib
+sklearn
